@@ -9,7 +9,7 @@ related_posts: true
 I was invited by [PhD Nazim Benzerdjeb](https://www.pathologyoutlines.com/directory/nazim-benzerdjeb) to give a talk at the Seminar on Artificial Intelligence in Healthcare: Applications, Myths, and
 Challenges at _Faculté de Médecine et de Maïeutique Lyon Sud_.
 
-Find the slides to the seminar <a href="assets/pdf/LyonSeminar.pdf">here! </a>.
+Find the slides to the seminar [here!](/access/LyonSeminar.pdf)
 
 ---
 
