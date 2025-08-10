@@ -26,7 +26,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I am F. Javier Sáez-Maldonado, but I prefer to be called Javier! 
+Hi! I am F. Javier Sáez-Maldonado - but please, call me Javier. 
 
-I am currently pursuing a PhD under the supervision of [Rafael Molina Soriano](https://ccia.ugr.es/~rms/) and [Pablo Morales Álvarez](https://www.ugr.es/personal/pablo-morales-alvarez). My research interests engloban `probabilistic modelling` (specially `Gaussian Processes`) and `data-distribution` modelling for `Out-of-distribution` detection. I apply these techniques to solve medical problems.
+I am currently pursuing a PhD under the supervision of [Rafael Molina Soriano](https://ccia.ugr.es/~rms/) and [Pablo Morales Álvarez](https://www.ugr.es/personal/pablo-morales-alvarez). My research interests include `probabilistic modelling` (specially `Gaussian Processes`) and `generative` modelling for `Out-of-distribution` detection. I apply these techniques to solve medical problems.
 
+I hold a Bsc in `Mathematics` and a Bsc in `Computer Science`, both from the University of my hometown **Granada** (aka, the best city in the world). Also, I received a MsC in Data Science at Autonomous University of Madrid, where I developed my interest in probabilistic modelling. 
+
+Outside research, you’ll probably find me tasting as many coffees as possible ☕ or playing Magic: The Gathering.
