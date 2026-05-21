@@ -40,6 +40,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_lyon/";
+            },},{id: "news-hi-from-copenhague-i-will-be-visiting-dtu-for-the-next-three-months-so-happy-to-be-here",
+          title: 'Hi from Copenhague! I will be visiting DTU for the next three months....',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_DTU/";
             },},{
         id: 'social-email',
         title: 'email',
